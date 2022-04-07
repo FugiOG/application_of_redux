@@ -1,0 +1,66 @@
+{
+  "heroes": [
+    {
+      "id": 1,
+      "name": "Первый герой",
+      "description": "Первый герой в рейтинге!",
+      "element": "fire"
+    },
+    {
+      "id": "d8301474-6110-49f3-b3f8-7c3d427d5152",
+      "name": "uyty",
+      "description": "fdsfasdfasdfasdf",
+      "element": "water"
+    },
+    {
+      "id": "cf68c028-7054-4644-98f0-f90f1c3a3adf",
+      "name": "qqtreywrtyrty",
+      "description": "234346rfwg45t4ttg",
+      "element": "earth"
+    },
+    {
+      "id": "f669968b-1821-4a32-bf08-b733348cab01",
+      "name": "asdasdasd",
+      "description": "qwe2342frwef",
+      "element": "fire"
+    },
+    {
+      "id": "1e017205-b8b7-4b84-9f87-f4a0935548c1",
+      "name": "ПЛАЙБОЙ КАРТИ ",
+      "description": "АРТЁМ__12312",
+      "element": "wind"
+    }
+  ],
+  "filters": [
+    {
+      "id": "all",
+      "name": "all",
+      "label": "Все",
+      "className": "btn-outline-dark"
+    },
+    {
+      "id": "fire",
+      "name": "fire",
+      "label": "Огонь",
+      "className": "btn-danger"
+    },
+    {
+      "id": "water",
+      "name": "water",
+      "label": "Вода",
+      "className": "btn-primary"
+    },
+    {
+      "id": "wind",
+      "name": "wind",
+      "label": "Ветер",
+      "className": "btn-success"
+    },
+    {
+      "id": "earth",
+      "name": "earth",
+      "label": "Земля",
+      "className": "btn-secondary"
+    }
+  ]
+}
